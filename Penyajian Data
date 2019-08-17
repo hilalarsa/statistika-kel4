@@ -29,7 +29,32 @@
       "metadata": {
         "id": "YdybxCXrgpZ7",
         "colab_type": "code",
-        "colab": {}
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 129
+        },
+        "outputId": "3ef27d40-1454-4fe1-e9e2-94e5fe45d834"
+      },
+      "source": [
+        ""
+      ],
+      "execution_count": 1,
+      "outputs": [
+        {
+          "output_type": "error",
+          "ename": "SyntaxError",
+          "evalue": "ignored",
+          "traceback": [
+            "\u001b[0;36m  File \u001b[0;32m\"<ipython-input-1-99bdc5659da2>\"\u001b[0;36m, line \u001b[0;32m1\u001b[0m\n\u001b[0;31m    PENYAJIAN DATA\u001b[0m\n\u001b[0m                 ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "GrPPe-Ftk_yQ",
+        "colab_type": "text"
       },
       "source": [
         "PENYAJIAN DATA\n",
@@ -48,7 +73,6 @@
         "Distribusi Frekuensi\n",
         "\n",
         "Untuk membentuk distribusi frekuensi akan dijelaskan dengan contoh berikut. Terdapat 30 data panjang kelopak daun dalam cm,\n",
-        "\n",
         "5,1\t4,9\t4,7\n",
         "4.6\t5,0\t5,4\n",
         "4,6\t5,0\t4,4\n",
@@ -66,6 +90,7 @@
         "K = 1+3,3logn\n",
         "sesuai contoh kasus diatas, maka K = 1+3,3log30 = 1+3,3.1,48 = 5,88\n",
         "jadi jumlah kelas interval 5 atau 6. Pada kesempatan ini digunakan 5 kelas.\n",
+        " \n",
         "2.\tMenghitungRentang Data\n",
         "Untuk menghitung rentang data, caranya adalah data terbesar dikurangi data terkecil kemudian ditambah 1. Data terbesar adalah 5,8, dan data terkecil adalah 4,3.\n",
         "Jadi 5,8-4,3+1= 2,5 \n",
@@ -83,6 +108,8 @@
         "5\t4,1-5\t\n",
         "6\t5,1-6\t\n",
         "\n",
+        "\n",
+        "\n",
         "2.\tGrafis\n",
         "Selain tabel, data disajikan dalam bentuk grafis. Dalam penyajian grafis ini, data disajikan dalam bentuk gambar. Terdapat dua macam penyajian grafis, yakni dalam bentuk grafik dan diagram.\n",
         "1.\tGrafik\n",
@@ -90,6 +117,8 @@
         "\n",
         "Grafik garis\n",
         " \n",
+        "\n",
+        "\n",
         "2.\tDiagram\n",
         "Diagram digunakan untuk menunjukkan perbandingan data dari berbagai kelompok, biasanya disajikan dalam bentuk perbandingan persentase.\n",
         "\n",
@@ -102,10 +131,29 @@
         "\n",
         "\n",
         " \n",
+        " \n",
         " \n"
-      ],
-      "execution_count": 0,
-      "outputs": []
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "pIs_unzrk8UM",
+        "colab_type": "text"
+      },
+      "source": [
+        ""
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "FEi_XfM_k5eO",
+        "colab_type": "text"
+      },
+      "source": [
+        ""
+      ]
     },
     {
       "cell_type": "markdown",
