@@ -18,4 +18,4 @@ Tema : Data Pengukuran Kelopak Bunga Lily
 6. [Populasi dan Sampel]
 7. [Implementasi Random Sampling Menggunakan Python]
 8. [Pengujian Normalitas Data](Pengujian_Normalitas_Data.ipynb)
-9. [Konsep Dasar Uji Hipotesis]
+9. [Konsep Dasar Uji Hipotesis](Konsep_Dasar_Uji_Hipotesis.ipynb)
