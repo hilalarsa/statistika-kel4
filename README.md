@@ -15,7 +15,7 @@ Tema : Data Pengukuran Kelopak Bunga Lily
 3. [Implementasi Ukuran Pemusatan Data Menggunakan Python](Implementasi_Ukuran_Pemusatan_Data_Menggunakan_Python.ipynb)
 4. [Ukuran Persebaran Data](Ukuran_Persebaran_Data.ipynb)
 5. [Implementasi Ukuran Persebaran Data Menggunakan Python]
-6. [Populasi dan Sampel] (Populasi_Sampel.ipynb)
+6. [Populasi dan Sampel](Populasi_Sampel.ipynb)
 7. [Implementasi Random Sampling Menggunakan Python]
 8. [Pengujian Normalitas Data](Pengujian_Normalitas_Data.ipynb)
 9. [Konsep Dasar Uji Hipotesis](Konsep_Dasar_Uji_Hipotesis.ipynb)
